@@ -15,6 +15,7 @@ Once the HTML page is up and running, the users would see the the main page with
 
 The next thing any user will see, are the different filters that we created (date, city, state country, shape) which can then be used to pull sightings for specific search criteria. Multiple filters can be used at the same time to get the desired information.
 ![DateFilter](https://user-images.githubusercontent.com/76858662/111085764-205dcb00-84ef-11eb-83f0-562e57544a7d.PNG)
+
 ![Table](https://user-images.githubusercontent.com/76858662/111085768-2358bb80-84ef-11eb-929b-b50baac4c838.PNG)
 
 ## Summary
