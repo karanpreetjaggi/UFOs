@@ -4,7 +4,7 @@
 In this project we are helping Dana build a table using stored data in Javascript array. We have created multiple criteria by means of filters in the webpage that will allow users to pick UFO sigtings at different dates, cities, state, country and various UFO shapes. 
 
 ## Purpose
-Dana main goal is to create an interactive webpage that will allow users to parse the data around various UFO sightings. 
+Our main goal is to create an interactive webpage that will allow users to parse the data around various UFO sightings. 
 
 ## Methodology
 We have used Javascript and bootstrap to make the webpage. We have created an HTML page that will allow users to pull information from the Javascipt data file using various filters.
